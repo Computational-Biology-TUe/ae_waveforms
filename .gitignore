@@ -1,0 +1,11 @@
+inspection_profiles/
+.neptune/
+.idea/
+.idea
+functions_ae/__pycache__/
+__pycache__/
+*__pycache__*
+results/
+venv/
+
+vars.env
